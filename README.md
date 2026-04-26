@@ -1,2 +1,2 @@
-# ai-systems-journey
-Operations engineer's 6-month transition diary from MCP infrastructure architect
+As a system operations engineer, my goal is to learn how to use MCP servers and apply them in infrastructure systems. My aim is not to pretend, but to share my learning process here and perhaps shed light for others. I want to transparently share my learning process about a structure I don't know, and then sincerely share the projects I will apply to Linux systems.
+Thank you to everyone who reads this.
